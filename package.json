@@ -1,0 +1,14 @@
+{
+  "name": "food-website-main",
+  "version": "1.0.0",
+  "description": "food website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
